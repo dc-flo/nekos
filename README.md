@@ -41,6 +41,37 @@ void main() async {
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to 
-contribute to the package, how to file issues, what response they can expect 
-from the package authors, and more.
+Report issues to https://github.com/dc-flo/nekos/issues!
+
+List of methods:
+| Method        | Return type   |
+| -----------   | -----------   |
+| fact          | String        |
+| owoify        | String        |
+| cat           | cat           |
+| name          | String        |
+| spoiler       | String        |
+| why           | String        |
+| smug          | String - gif link
+| woof          | String - img link
+| gasm          | String - img link
+| eight_ball    | String - img link
+| goose         | String - img link
+| cuddle        | String - gif link
+| avatar        | String - img link
+| slap          | String - gif link
+| pat           | String - gif link
+| gecg          | String - img link
+| feed          | String - gif link
+| fox_girl      | String - img link
+| lizard        | String - img link
+| neko          | String - img link
+| hug           | String - gif link
+| meow          | String - img link
+| kiss          | String - gif link
+| wallpaper     | String - img link
+| tickle        | String - gif link
+| spank         | String - img link
+| waifu         | String - img link
+| lewd          | String - img link
+| ngif          | String - gif link       |
