@@ -44,34 +44,33 @@ void main() async {
 Report issues to https://github.com/dc-flo/nekos/issues!
 
 List of methods:
-| Method        | Return type   |
-| -----------   | -----------   |
-| fact          | String        |
-| owoify        | String        |
-| cat           | cat           |
-| name          | String        |
-| spoiler       | String        |
-| why           | String        |
-| smug          | String - gif link
-| woof          | String - img link
-| gasm          | String - img link
-| eight_ball    | String - img link
-| goose         | String - img link
-| cuddle        | String - gif link
-| avatar        | String - img link
-| slap          | String - gif link
-| pat           | String - gif link
-| gecg          | String - img link
-| feed          | String - gif link
-| fox_girl      | String - img link
-| lizard        | String - img link
-| neko          | String - img link
-| hug           | String - gif link
-| meow          | String - img link
-| kiss          | String - gif link
-| wallpaper     | String - img link
-| tickle        | String - gif link
-| spank         | String - img link
-| waifu         | String - img link
-| lewd          | String - img link
-| ngif          | String - gif link       |
+
+- fact
+- owoify
+- cat
+- name
+- spoiler
+- why
+- smug
+- woof
+- gasm
+- eight_ball
+- goose
+- cuddle
+- avatar
+- slap
+- pat
+- gecg
+- feed
+- fox_girl
+- lizard
+- neko
+- hug
+- meow
+- kiss
+- wallpaper
+- tickle
+- spank
+- waifu
+- lewd
+- ngif
