@@ -30,7 +30,7 @@ class Nekos {
   ///HYAAAHHH
   Future<String> gasm() async => await get(['img/gasm', 'url']);
   ///random 8ball
-  Future<String> eight_ball() async => await get(['img/8ball', 'url']);
+  Future<String> eightBall() async => await get(['img/8ball', 'url']);
   ///gooooooooooooooooooose
   Future<String> goose() async => await get(['img/goose', 'url']);
   ///UwU
@@ -46,7 +46,7 @@ class Nekos {
   ///yummy
   Future<String> feed() async => await get(['img/feed', 'url']);
   ///foxy
-  Future<String> fox_girl() async => await get(['img/fox_girl', 'url']);
+  Future<String> foxGirl() async => await get(['img/fox_girl', 'url']);
   ///lizards
   Future<String> lizard() async => await get(['img/lizard', 'url']);
   ///neko UwU

@@ -17,3 +17,7 @@
 ## 0.0.5
 
 * renamed example
+
+## 0.0.6
+
+* renamed methods
