@@ -28,6 +28,7 @@ pub add nekos
 ```
 
 ## Usage
+functions need to be awaited and in an asynchronous function!
 
 ```dart
 import 'package:nekos/nekos.dart';
@@ -54,7 +55,7 @@ List of methods:
 - smug
 - woof
 - gasm
-- eight_ball
+- eightBall
 - goose
 - cuddle
 - avatar
@@ -62,7 +63,7 @@ List of methods:
 - pat
 - gecg
 - feed
-- fox_girl
+- foxGirl
 - lizard
 - neko
 - hug

@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * edited README.md for pub.dev
+
+## 0.0.3
+
+* added examples & fixxed potential errors
