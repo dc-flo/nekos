@@ -21,3 +21,7 @@
 ## 0.0.6
 
 * renamed methods
+
+## 0.0.7
+
+* added dart formatting
