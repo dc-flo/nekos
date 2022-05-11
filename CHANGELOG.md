@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * added examples & fixxed potential errors
+
+## 0.0.4
+
+* simplified example
