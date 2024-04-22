@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:nekos/nekos.dart';
 
-void main() => runApp(const MyApp());
+void main() => runApp(const MyApp());             //wir sind immer hier
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
